@@ -1,0 +1,233 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.row2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    background-color: rgb(223, 96, 140);
+
+}
+
+.row3 {
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Itim', cursive;
+font-family: 'Lora', serif;
+    
+    background-color:rgb(67, 214, 219) ;
+
+   
+}
+.row3:hover{
+    box-shadow: 10px 1px 10px 10px
+}
+
+
+.row4 {
+    font-size: xx-large;
+    background-color: rgb(103, 209, 209);
+    font-family: 'Itim', cursive;
+font-family: 'Kanit', sans-serif;
+font-family: 'Lora', serif;
+   
+}
+
+.row4:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+
+.row5 {
+
+    font-size: xx-large;
+    background-color: rgb(178, 232, 232);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+}
+
+.row6 {
+    font-size: xx-large;
+    background-color: rgb(103, 209, 209);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+
+}
+
+.row7 {
+    font-size: xx-large;
+    background-color: rgb(178, 232, 232);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+
+}
+
+.row8 {
+    font-size: xx-large;
+    background-color: rgb(103, 209, 209);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+}
+
+.row9 {
+    font-size: xx-large;
+    background-color: rgb(178, 232, 232);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+
+}
+
+.row10 {
+    font-size: xx-large;
+    background-color: rgb(103, 209, 209);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+}
+
+.row11 {
+    font-size: xx-large;
+    background-color: rgb(178, 232, 232);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+
+}
+
+.row12 {
+    font-size: xx-large;
+    background-color: rgb(103, 209, 209);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+}
+
+.row13 {
+    font-size: xx-large;
+    background-color: rgb(178, 232, 232);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+    
+
+}
+
+.row14 {
+    font-size: xx-large;
+    background-color: rgb(103, 209, 209);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+}
+
+.row15 {
+    font-size: xx-large;
+    background-color: rgb(178, 232, 232);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+
+}
+
+.row16 {
+    font-size: xx-large;
+    background-color: rgb(103, 209, 209);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+}
+
+.row17 {
+    font-size: xx-large;
+    background-color: rgb(178, 232, 232);
+    font-family: 'Itim', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lora', serif;
+
+}
+
+.row18 {
+    text-align: center;
+
+    padding-top: 80px;
+    height: 50px;
+}
+
+.button {
+    font-size: xx-large;
+    box-sizing: border-box;
+    border: 2px solid rgb(14, 4, 23);
+    font-weight: 300;
+    margin-bottom: 30px;
+
+}
+
+.button:hover {
+    color: #030913;
+    cursor: pointer;
+    box-shadow: 5px 1px 5px 10px
+}
+
+.row4:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row5:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row6:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row7:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row8:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+.row9:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row10:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row11:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row12:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row13:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+.row14:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row15:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row16:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+
+.row17:hover {
+    box-shadow: 10px 1px 10px 10px
+}
+body{
+    background-color: rgb(221, 98, 123);
+}
